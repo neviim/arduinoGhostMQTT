@@ -2,5 +2,6 @@
     "terminal.integrated.env.linux": {
         "PATH": "/home/neviim/.platformio/penv/bin:/home/neviim/.platformio/penv:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games",
         "PLATFORMIO_CALLER": "vscode"
-    }
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Disabled"
 }
